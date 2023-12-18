@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
-import Github from "./GutHub";
+import Github from "./Guthub";
 import Particle from "../Particle";
 import AboutCard from "./AboutCards";
 import Techstack from "./Techstack";
